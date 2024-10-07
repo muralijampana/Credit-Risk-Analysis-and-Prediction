@@ -65,7 +65,6 @@ The best-performing model was then used to predict credit risk across the entire
 2.Install the required dependencies:
 
 ```bash
-Copy code
 pip install -r requirements.txt
 ```
 
@@ -76,14 +75,12 @@ pip install -r requirements.txt
 1.Run the data preprocessing and model training:
 
 ```bash
-Copy code
 python credit_risk_analysis.py
 ```
 
 2.Generate visualizations:
 
 ```bash
-Copy code
 python visualization.py
 ```
 The generated CSV files with predictions and credit scores will be saved in the project folder.
