@@ -86,11 +86,11 @@ python visualization.py
 The generated CSV files with predictions and credit scores will be saved in the project folder.
 
 ## Technologies Used
-Python: Core programming language.
-Pandas: For data manipulation and preprocessing.
-Scikit-learn: For building machine learning models.
-Imbalanced-learn (SMOTE): For handling class imbalance.
-XGBoost: For advanced machine learning predictions.
-Plotly: For interactive data visualizations.
-Seaborn: For static visualizations.
-Matplotlib: For plotting ROC curves and other charts.
+- Python: Core programming language.
+- Pandas: For data manipulation and preprocessing.
+- Scikit-learn: For building machine learning models.
+- Imbalanced-learn (SMOTE): For handling class imbalance.
+- XGBoost: For advanced machine learning predictions.
+= Plotly: For interactive data visualizations.
+- Seaborn: For static visualizations.
+- Matplotlib: For plotting ROC curves and other charts.
